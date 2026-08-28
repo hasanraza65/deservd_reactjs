@@ -1,0 +1,48 @@
+{
+  "source": "Pexels",
+  "license": "https://www.pexels.com/license/",
+  "photos": [
+    {
+      "file": "cookies/classic-chocolate-chip.jpg",
+      "id": 31323236,
+      "photographer": "Shivam Patil",
+      "url": "https://www.pexels.com/photo/delicious-homemade-chocolate-chip-cookies-31323236/",
+      "alt": "Close-up of three chocolate chip cookies with nuts on a white plate."
+    },
+    {
+      "file": "cookies/marble-cookie.jpg",
+      "id": 14571330,
+      "photographer": "Boryslav Shoot",
+      "url": "https://www.pexels.com/photo/cookies-in-a-blue-ceramic-bowl-14571330/",
+      "alt": "Warm and rustic close-up of chocolate chip cookies in a black bowl, perfect for dessert themes."
+    },
+    {
+      "file": "cookies/xx-chocolate-chip.jpg",
+      "id": 10688029,
+      "photographer": "Skyler Ewing",
+      "url": "https://www.pexels.com/photo/brown-cookies-on-brown-wooden-chopping-board-10688029/",
+      "alt": "Delicious oatmeal raisin cookies stacked on a wooden board, perfect for dessert lovers."
+    },
+    {
+      "file": "cookies/xx-triple-chocolate.jpg",
+      "id": 23948783,
+      "photographer": "Arts Dianti",
+      "url": "https://www.pexels.com/photo/cookies-and-a-glass-of-milk-on-a-table-23948783/",
+      "alt": "A tempting display of chocolate chip cookies on a wooden board accompanied by a glass of milk. Perfect for snack time."
+    },
+    {
+      "file": "editorial/bakery-kitchen.jpg",
+      "id": 5964505,
+      "photographer": "Anna Shvets",
+      "url": "https://www.pexels.com/photo/photo-of-a-person-taking-out-a-tray-of-cinnamon-rolls-5964505/",
+      "alt": "Baker placing freshly baked cinnamon rolls on a cooling rack in a bakery kitchen."
+    },
+    {
+      "file": "editorial/ingredients.jpg",
+      "id": 27850071,
+      "photographer": "Livilla Latini",
+      "url": "https://www.pexels.com/photo/a-bowl-of-chocolate-balls-with-oats-on-top-27850071/",
+      "alt": "Indulge in delicious homemade chocolate truffles, beautifully arranged in a rustic bowl."
+    }
+  ]
+}
